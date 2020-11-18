@@ -14,6 +14,8 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ### Changed
 
+- `// nosemgrep` can now also be used to ignore findings,
+  in addition to `// nosem`
 - Added a default timeout of 30 seconds per file instead of none (#1981).
 
 ## [0.31.1](https://github.com/returntocorp/semgrep/releases/tag/v0.31.1) - 2020-11-11
